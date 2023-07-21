@@ -26,6 +26,7 @@
   - https://www.iizuka.kyutech.ac.jp/admissions/open/open2022
   - https://vkit-i.vercel.app/
 - Virtual GYMLABO (In Progress)
+  - https://gymlabo-9cr54typ2-v-gymlabo.vercel.app/
   - https://ippooffice.co.jp/hitte/columns/other/gymlabo/
   - https://www.gymlabo.kyutech.jp/
 
